@@ -1,5 +1,6 @@
 import { Box, Text } from "theme-ui"
 import Meta from '@hackclub/meta'
+import Head from 'next/head'
 import Landing from "../components/landing";
 import Projects from "../components/projects";
 import Stats from "../components/stats";
